@@ -1,0 +1,23 @@
+# Ignore virtual environments
+myenv/
+bank_env/
+.venv/
+env/
+
+# Ignore data folder
+Data/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment variables
+.env
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+GithubSteps.txt
